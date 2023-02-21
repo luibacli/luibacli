@@ -6,7 +6,7 @@ const About = () => {
             name="about"
             className="w-full h-fit bg-gradient-to-b from-gray-800 to-black text-white"
         >
-            <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+            <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-screen h-fit">
                 <div className="pb-8">
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">
                         About
@@ -14,11 +14,13 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    Hi, I'm Luigie, and I am a self-taught full stack developer
-                    and a career shifter. I was a social studies teacher for
-                    four years because I love talking about history, culture,
-                    people and society. At the same time I was a freelance
-                    virtual assistant as my part-time job.
+                    Hi, I'm Luigie, a self-taught full-stack developer and a
+                    career shifter. I was a social studies teacher for four
+                    years because I love talking about history, culture, people,
+                    and society. I was also a freelance virtual assistant and a
+                    sales associate as my part-time job because I love
+                    communicating with people around the world and helping them
+                    scale their businesses.
                 </p>
                 <br />
 
