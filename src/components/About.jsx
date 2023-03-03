@@ -14,7 +14,7 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    Hi, I'm Luigie, a self-taught full-stack developer and a
+                    Hi, I'm Luigie, a self-taught, aspiring web developer and a
                     career shifter. I was a social studies teacher for four
                     years because I love talking about history, culture, people,
                     and society. I was also a freelance virtual assistant and a
