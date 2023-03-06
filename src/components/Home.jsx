@@ -15,10 +15,9 @@ const Home = () => {
                         I'm a Web Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        A self-taught and an aspiring web developer who has
-                        recently made a career shift into the tech industry
-                        Currently, I love to work on web applications using
-                        technologies like MongoDB, Express.js, React & Node.js.
+                        A self-taught, career shifter and web developer who
+                        loves to work on web applications using technologies
+                        like MongoDB, Express.js, React & Node.js.
                     </p>
 
                     <div>
