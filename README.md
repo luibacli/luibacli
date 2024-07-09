@@ -1,4 +1,4 @@
-# Hi there, I'm [Luigie Bacli]! 👋
+# Hi there, I'm Luigie Bacli! 👋
 
 Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost three years of experience in building scalable and efficient web applications.
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost thre
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![luibacli's Stats](https://github-readme-stats.vercel.app/api?username=luibacli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🌐 Connect with Me
 
