@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost thre
 
 - **Frameworks/Libraries:** Vue.js, Quasar Framework
 - **Styling:** Tailwind CSS
-- **State Management:** Vuex
+- **State Management:** Pinia
 - **Other Tools:** Vue Router, Composition API
 
 ### Backend
@@ -37,6 +37,6 @@ Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost thre
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/lui-bacli-953166223/)
-- [Personal Website/Portfolio]([https://yourwebsite.com](https://lui-portfolio-lime.vercel.app/))
+
 
 
