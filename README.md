@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost thre
 
 ### Additional Skills
 
-- **API Development:** REST APIs
+- **API Development:** REST APIs, GraphQL
 - **Version Control:** Git, GitHub
 - **Project Management:** Agile methodologies, Scrum
 
