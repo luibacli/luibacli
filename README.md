@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost thre
 
 - 🎨 Frontend Developer specializing in Vue.js.
 - 📚 Almost three years of professional experience.
-- 🌐 Experienced with REST APIs, GraphQL and backend technologies.
+- 🌐 Experienced with REST APIs, Express, Node.js, MONGODB and backend technologies.
 - 🧩 Advocate for Agile methodologies and clean code practices.
 
 ## 🛠️ Technologies & Tools
