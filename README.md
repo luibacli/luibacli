@@ -1,34 +1,78 @@
-# Hi there, I'm Luigie Bacli! 👋
+# Hi there, I'm Luigie Bacli 👋
 
-Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost three years of experience in building scalable and efficient web applications.
+### Full Stack Developer • SaaS Builder • AI & Automation Enthusiast
+
+I build scalable web applications, healthcare systems, automation tools, and SaaS platforms focused on solving real-world problems. Passionate about modern web technologies, clean architecture, business-driven software, and AI-powered workflows.
+
+---
 
 ## 🚀 About Me
 
-- 🎨 Frontend Developer specializing in Vue.js.
-- 📚 Almost three years of professional experience.
-- 🌐 Experienced with REST APIs, Express, Node.js, MONGODB and backend technologies.
-- 🧩 Advocate for Agile methodologies and clean code practices.
+- 💻 Full Stack Developer specializing in modern JavaScript frameworks
+- ⚡ Building SaaS products, dashboards, and healthcare platforms
+- 🧠 Exploring AI integrations, automation systems, and business tools
+- 🌐 Experienced in frontend, backend, APIs, and cloud deployments
+- 📈 Passionate about creating products that generate real impact
+- 🤝 Experienced in client support, technical training, and implementation
+- 🔥 Constantly learning and shipping production-ready applications
 
-## 🛠️ Technologies & Tools
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
-
-- **Frameworks/Libraries:** Vue.js, Quasar Framework
-- **Styling:** Tailwind CSS
-- **State Management:** Pinia
-- **Other Tools:** Vue Router, Composition API
+- Vue.js
+- Nuxt.js
+- React
+- Next.js
+- Quasar Framework
+- PrimeVue
+- Tailwind CSS
+- Pinia
+- Vue Router
+- Composition API
 
 ### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Firebase
+- Supabase
+- Prisma ORM
 
-- **Languages:** JavaScript, Node.js
-- **Databases:** MongoDB, Prisma
-- **Other Tools:** Firebase
+### Database
+- MongoDB
+- Supabase
+- Firebase Firestore
 
-### Additional Skills
+### Dev Tools & Deployment
+- Git & GitHub
+- Vercel
+- Render
+- Postman
+- Agile / Scrum
 
-- **API Development:** REST APIs, GraphQL
-- **Version Control:** Git, GitHub
-- **Project Management:** Agile methodologies, Scrum
+### Currently Exploring
+- AI-powered SaaS
+- Automation workflows
+- Healthcare integrations
+- Forex & sports analytics systems
+- Scalable cloud architectures
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 CareBoard
+Custom healthcare dashboard platform designed for clinic operations, patient workflows, and reporting systems.
+
+### 🌐 MyClinicAccess
+Clinic portal and SaaS ecosystem focused on accessibility, healthcare workflows, and integrations.
+
+### 🤖 AI & Automation Projects
+Developing AI-assisted systems for analytics, workflow optimization, and decision support.
+
+---
 
 ## 📈 GitHub Stats
 
@@ -38,9 +82,14 @@ Welcome to my GitHub profile! I'm a passionate Vue.js developer with almost thre
 
 ![luibacli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luibacli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## 🌐 Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/lui-bacli-953166223/)
+## 🌍 Connect With Me
 
+- LinkedIn: https://www.linkedin.com/in/lui-bacli-953166223/
 
+---
 
+## 💡 Personal Motto
+
+> “Build systems that solve problems, scale businesses, and create opportunities.”
