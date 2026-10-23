@@ -66,9 +66,6 @@ I build scalable web applications, healthcare systems, automation tools, and Saa
 ### 🏥 CareBoard
 Custom healthcare dashboard platform designed for clinic operations, patient workflows, and reporting systems.
 
-### 🌐 MyClinicAccess
-Clinic portal and SaaS ecosystem focused on accessibility, healthcare workflows, and integrations.
-
 ### 🤖 AI & Automation Projects
 Developing AI-assisted systems for analytics, workflow optimization, and decision support.
 
